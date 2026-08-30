@@ -1,0 +1,18 @@
+Process: Peroxisomal Biogenesis and Function
+
+The system of interacting proteins encoded by the PEX gene set is primarily involved in the biogenesis and maintenance of peroxisomes, which are essential organelles for various metabolic processes, including fatty acid β-oxidation and reactive oxygen species detoxification.
+
+PEX1 and PEX6 are ATPases associated with the peroxisomal membrane. They form a complex that is crucial for the recycling of the peroxisomal targeting signal receptor, PEX5, back to the cytosol. This recycling is essential for the continuous import of matrix proteins into peroxisomes. The ATPase activity of PEX1 and PEX6 provides the energy required for this process, highlighting their role in maintaining peroxisomal protein import efficiency.
+
+PEX2, PEX10, and PEX12 are components of the peroxisomal membrane protein import machinery. They form a ubiquitin-conjugating enzyme complex that is involved in the ubiquitination of PEX5. This post-translational modification is a signal for the retrotranslocation of PEX5, facilitating its recycling. The ubiquitination process is critical for the regulation of peroxisomal protein import and underscores the importance of these proteins in maintaining peroxisomal function.
+
+PEX3 and PEX19 are involved in the early stages of peroxisome membrane biogenesis. PEX3 acts as a docking factor for PEX19, which is a cytosolic chaperone and import receptor for peroxisomal membrane proteins. This interaction is vital for the insertion of membrane proteins into the peroxisomal membrane, ensuring the proper assembly and maintenance of peroxisomes.
+
+PEX4 is a ubiquitin-conjugating enzyme that works in conjunction with PEX22, an integral membrane protein, to facilitate the ubiquitination of PEX5. This process is necessary for the regulation of peroxisomal protein import, emphasizing the role of PEX4 in maintaining peroxisomal homeostasis.
+
+PEX5 and PEX7 are receptors for peroxisomal targeting signals 1 and 2, respectively. They recognize and bind to peroxisomal matrix proteins in the cytosol and facilitate their import into the peroxisome. The specificity of PEX5 and PEX7 for their respective targeting signals is crucial for the selective import of proteins, ensuring that peroxisomes contain the necessary enzymes for their metabolic functions.
+
+PEX8 is involved in the docking and translocation of matrix proteins into the peroxisome. It interacts with PEX5 and is thought to play a role in the translocation of the receptor-cargo complex into the peroxisomal matrix. This function is essential for the efficient import of matrix proteins, highlighting the importance of PEX8 in peroxisomal protein import.
+
+Overall, the PEX gene set encodes a system of proteins that are intricately involved in the biogenesis, maintenance, and function of peroxisomes. Each protein plays a specific role in the import of peroxisomal proteins, ensuring the organelle's metabolic capabilities are sustained.
+//

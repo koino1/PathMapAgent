@@ -1,0 +1,29 @@
+MsigDB:69	====There are an error 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+ here.====
+//
+Process: Peroxisomal Biogenesis and Function
+
+The system of interacting proteins encoded by the PEX gene set is primarily involved in the biogenesis and maintenance of peroxisomes, which are essential organelles for various metabolic processes, including fatty acid β-oxidation and reactive oxygen species detoxification.
+
+PEX1 and PEX6 are ATPases associated with the peroxisomal membrane. They form a complex crucial for the recycling of the peroxisomal targeting signal receptor, PEX5, back to the cytosol. This recycling is essential for the continuous import of matrix proteins into peroxisomes. The ATPase activity of PEX1 and PEX6 provides the energy required for this process, highlighting their role in maintaining peroxisomal protein import efficiency.
+
+PEX2, PEX10, and PEX12 form a ubiquitin-conjugating enzyme complex involved in the ubiquitination of PEX5. This post-translational modification signals the retrotranslocation of PEX5, facilitating its recycling. The ubiquitination process is critical for regulating peroxisomal protein import and underscores the importance of these proteins in maintaining peroxisomal function.
+
+PEX3 acts as a docking factor for PEX19, a cytosolic chaperone and import receptor for peroxisomal membrane proteins. This interaction is vital for inserting membrane proteins into the peroxisomal membrane, ensuring the proper assembly and maintenance of peroxisomes.
+
+PEX4 is a ubiquitin-conjugating enzyme that works with PEX22 to facilitate the ubiquitination of PEX5. This process is necessary for regulating peroxisomal protein import, emphasizing the role of PEX4 in maintaining peroxisomal homeostasis.
+
+PEX5 and PEX7 are receptors for peroxisomal targeting signals 1 and 2, respectively. They recognize and bind to peroxisomal matrix proteins in the cytosol and facilitate their import into the peroxisome. The specificity of PEX5 and PEX7 for their respective targeting signals is crucial for the selective import of proteins, ensuring that peroxisomes contain the necessary enzymes for their metabolic functions.
+
+PEX8 is involved in the docking and translocation of matrix proteins into the peroxisome. It plays a role in the translocation of matrix proteins into the peroxisomal matrix, highlighting the importance of PEX8 in peroxisomal protein import.
+
+Overall, the PEX gene set encodes a system of proteins intricately involved in the biogenesis, maintenance, and function of peroxisomes. Each protein plays a specific role in the import of peroxisomal proteins, ensuring the organelle's metabolic capabilities are sustained.
+//

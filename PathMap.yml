@@ -1,0 +1,34 @@
+# macOS / Apple Silicon environment for the complete PathMap pipeline.
+# Create it with: conda env create -f PathMap.yml
+name: MACL
+channels:
+  - conda-forge
+dependencies:
+  # Runtime and data processing
+  - python=3.11
+  - pip
+  - pandas>=2.2,<3
+  - requests>=2.31,<3
+
+  # CLADD molecular graph pipeline.  Keep these packages on conda-forge so
+  # PyTorch and its compiled PyG extensions are ABI-compatible on macOS.
+  - pytorch>=2.4
+  - pytorch_geometric>=2.5,<3
+  - pytorch_scatter=2.1.2
+  - rdkit>=2024.3
+  - networkx>=3.2,<4
+
+  - pip:
+      # LLM clients used by Steps 1, 2, and 4
+      - openai>=1.68,<2
+      - anthropic>=0.40,<1
+      - tiktoken>=0.7,<1
+      - python-dotenv>=1,<2
+      - langchain-openai>=0.3,<0.4
+
+      # MolT5 caption generation and GeneAgent support
+      - transformers>=4.46,<4.50
+      - sentencepiece>=0.2,<1
+      - protobuf>=4.25,<6
+      - ogb>=1.3.6,<2
+      - tqdm>=4.66,<5

@@ -1,0 +1,91 @@
+﻿PathwayID,PathwayName,Layer
+R-HSA-109703,PKB-mediated events,6
+R-HSA-112043,PLC beta mediated events,6
+R-HSA-162585,Uncoating of the HIV Virion,6
+R-HSA-162588,Budding and maturation of HIV virion,6
+R-HSA-162589,Reverse Transcription of HIV RNA,6
+R-HSA-162592,Integration of provirus,6
+R-HSA-163615,PKA activation,6
+R-HSA-164938,Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters,6
+R-HSA-164944,Nef and signal transduction,6
+R-HSA-165054,Rev-mediated nuclear export of HIV RNA,6
+R-HSA-165158,Activation of AKT2,6
+R-HSA-167172,Transcription of the HIV genome,6
+R-HSA-168874,"Transport of HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum to the Golgi Apparatus",6
+R-HSA-168888,Inhibition of IFN-beta,6
+R-HSA-170660,Adenylate cyclase activating pathway,6
+R-HSA-170670,Adenylate cyclase inhibitory pathway,6
+R-HSA-170968,Frs2-mediated activation,6
+R-HSA-170984,ARMS-mediated activation,6
+R-HSA-171007,p38MAPK events,6
+R-HSA-173107,Binding and entry of HIV virion,6
+R-HSA-174048,APC/C:Cdc20 mediated degradation of Cyclin B,6
+R-HSA-174154,APC/C:Cdc20 mediated degradation of Securin,6
+R-HSA-174437,Removal of the Flap Intermediate from the C-strand,6
+R-HSA-175474,Assembly Of The HIV Virion,6
+R-HSA-179419,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,6
+R-HSA-180746,Nuclear import of Rev protein,6
+R-HSA-180897,Vpr-mediated induction of apoptosis by mitochondrial outer membrane permeabilization,6
+R-HSA-180910,Vpr-mediated nuclear import of PICs,6
+R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,6
+R-HSA-202670,ERKs are inactivated,6
+R-HSA-2562578,TRIF-mediated programmed cell death,6
+R-HSA-2855086,Ficolins bind to repetitive carbohydrate structures on the target cell surface,6
+R-HSA-2995383,Initiation of Nuclear Envelope (NE) Reformation,6
+R-HSA-349425,Autodegradation of the E3 ubiquitin ligase COP1,6
+R-HSA-380259,Loss of Nlp from mitotic centrosomes,6
+R-HSA-442982,Ras activation upon Ca2+ influx through NMDA receptor,6
+R-HSA-444257,RSK activation,6
+R-HSA-450341,Activation of the AP-1 family of transcription factors,6
+R-HSA-5693554,Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA),6
+R-HSA-5693568,Resolution of D-loop Structures through Holliday Junction Intermediates,6
+R-HSA-5693616,Presynaptic phase of homologous DNA pairing and strand exchange,6
+R-HSA-6804754,Regulation of TP53 Expression,6
+R-HSA-6804757,Regulation of TP53 Degradation,6
+R-HSA-6811555,PI5P Regulates TP53 Acetylation,6
+R-HSA-69895,Transcriptional  activation of  cell cycle inhibitor p21 ,6
+R-HSA-936964,"Activation of IRF3, IRF7 mediated by TBK1, IKBKE",6
+R-HSA-937041,IKK complex recruitment mediated by RIP1,6
+R-HSA-937072,TRAF6-mediated induction of TAK1 complex within TLR4 complex,6
+R-HSA-9615933,Postmitotic nuclear pore complex (NPC) reformation,6
+R-HSA-9627069,Regulation of the apoptosome activity,6
+R-HSA-9636249,Inhibition of nitric oxide production,6
+R-HSA-9636383,Prevention of phagosomal-lysosomal fusion,6
+R-HSA-9636467,Blockage of phagosome acidification,6
+R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,6
+R-HSA-9662834,CD163 mediating an anti-inflammatory response,6
+R-HSA-9664323,FCGR3A-mediated IL10 synthesis,6
+R-HSA-9664422,FCGR3A-mediated phagocytosis,6
+R-HSA-9664535,LTC4-CYSLTR mediated IL4 production,6
+R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III,6
+R-HSA-9682706,Replication of the SARS-CoV-1 genome,6
+R-HSA-9682708,Transcription of SARS-CoV-1 sgRNAs,6
+R-HSA-9683439,Assembly of the SARS-CoV-1 Replication-Transcription Complex (RTC),6
+R-HSA-9683610,Maturation of nucleoprotein,6
+R-HSA-9683612,Maturation of protein M,6
+R-HSA-9683673,Maturation of protein 3a,6
+R-HSA-9683683,Maturation of protein E,6
+R-HSA-9683686,Maturation of spike protein,6
+R-HSA-9684325,Maturation of replicase proteins,6
+R-HSA-9692912,SARS-CoV-1 targets PDZ proteins in cell-cell junction,6
+R-HSA-9692913,SARS-CoV-1-mediated effects on programmed cell death,6
+R-HSA-9692916,SARS-CoV-1 activates/modulates innate immune responses,6
+R-HSA-9694322,Virion Assembly and Release,6
+R-HSA-9694614,Attachment and Entry,6
+R-HSA-9694635,Translation of Structural Proteins,6
+R-HSA-9694676,Translation of Replicase and Assembly of the Replication Transcription Complex,6
+R-HSA-9694682,SARS-CoV-2 Genome Replication and Transcription,6
+R-HSA-9705671,SARS-CoV-2 activates/modulates innate and adaptive immune responses,6
+R-HSA-9705677,SARS-CoV-2 targets PDZ proteins in cell-cell junction,6
+R-HSA-9727281,Translation of Accessory Proteins,6
+R-HSA-9733458,Induction of Cell-Cell Fusion,6
+R-HSA-9735869,SARS-CoV-1 modulates host translation machinery,6
+R-HSA-9735871,SARS-CoV-1 targets host intracellular signalling and regulatory pathways,6
+R-HSA-975144,IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation,6
+R-HSA-975163,IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation,6
+R-HSA-9754560,SARS-CoV-2 modulates autophagy,6
+R-HSA-9754678,SARS-CoV-2 modulates host translation machinery,6
+R-HSA-9755779,SARS-CoV-2 targets host intracellular signalling and regulatory pathways,6
+R-HSA-9759475,Regulation of CDH11 Expression and Function,6
+R-HSA-9764302,Regulation of CDH19 Expression and Function,6
+R-HSA-997272,Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits,6

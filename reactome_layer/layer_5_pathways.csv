@@ -1,0 +1,262 @@
+﻿PathwayID,PathwayName,Layer
+R-HSA-109704,PI3K Cascade,5
+R-HSA-111458,Formation of apoptosome,5
+R-HSA-111459,Activation of caspases through apoptosome-mediated cleavage,5
+R-HSA-111463,SMAC (DIABLO) binds to IAPs ,5
+R-HSA-111464,SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes ,5
+R-HSA-111931,PKA-mediated phosphorylation of CREB,5
+R-HSA-111932,CaMK IV-mediated phosphorylation of CREB,5
+R-HSA-111957,Cam-PDE 1 activation,5
+R-HSA-112040,G-protein mediated events,5
+R-HSA-112412,SOS-mediated signalling,5
+R-HSA-113501,Inhibition of replication initiation of damaged DNA by RB1/E2F1,5
+R-HSA-113507,E2F-enabled inhibition of pre-replication complex formation,5
+R-HSA-1222387,Tolerance of reactive oxygen produced by macrophages,5
+R-HSA-1222449,Mtb iron assimilation by chelation,5
+R-HSA-1222538,Tolerance by Mtb to nitric oxide produced by macrophages,5
+R-HSA-1222541,Cell redox homeostasis,5
+R-HSA-1295596,Spry regulation of FGF signaling,5
+R-HSA-1307965,betaKlotho-mediated ligand binding,5
+R-HSA-162594,Early Phase of HIV Life Cycle,5
+R-HSA-162599,Late Phase of HIV Life Cycle,5
+R-HSA-164952,The role of Nef in HIV-1 replication and disease pathogenesis,5
+R-HSA-166662,Lectin pathway of complement activation,5
+R-HSA-167044,Signalling to RAS,5
+R-HSA-168288,Fusion of the Influenza Virion to the Host Cell Endosome,5
+R-HSA-168298,Release,5
+R-HSA-168302,Budding,5
+R-HSA-168303,Packaging of Eight RNA Segments,5
+R-HSA-168305,Inhibition of Interferon Synthesis,5
+R-HSA-168315,Inhibition of Host mRNA Processing and RNA Silencing,5
+R-HSA-168316,Assembly of Viral Components at the Budding Site,5
+R-HSA-168325,Viral Messenger RNA Synthesis,5
+R-HSA-168330,Viral RNP Complexes in the Host Cell Nucleus,5
+R-HSA-168333,NEP/NS2 Interacts with the Cellular Export Machinery,5
+R-HSA-168336,Uncoating of the Influenza Virion,5
+R-HSA-169131,Inhibition of PKR,5
+R-HSA-169893,Prolonged ERK activation events,5
+R-HSA-170145,Phosphorylation of proteins involved in the G2/M transition by Cyclin A:Cdc2 complexes,5
+R-HSA-173623,Classical antibody-mediated complement activation,5
+R-HSA-174113,SCF-beta-TrCP mediated degradation of Emi1,5
+R-HSA-174411,Polymerase switching on the C-strand of the telomere,5
+R-HSA-174414,Processive synthesis on the C-strand of the telomere,5
+R-HSA-174430,Telomere C-strand synthesis initiation,5
+R-HSA-176033,Interactions of Vpr with host cellular proteins,5
+R-HSA-176034,Interactions of Tat with host cellular proteins,5
+R-HSA-176409,APC/C:Cdc20 mediated degradation of mitotic proteins,5
+R-HSA-176412,Phosphorylation of the APC/C,5
+R-HSA-176417,Phosphorylation of Emi1,5
+R-HSA-177128,Conjugation of salicylate with glycine,5
+R-HSA-177135,Conjugation of benzoate with glycine,5
+R-HSA-177162,Conjugation of phenylacetate with glutamine,5
+R-HSA-177243,Interactions of Rev with host cellular proteins,5
+R-HSA-180024,DARPP-32 events,5
+R-HSA-180534,Vpu mediated degradation of CD4,5
+R-HSA-180585,Vif-mediated degradation of APOBEC3G,5
+R-HSA-180689,APOBEC3G mediated resistance to HIV-1 infection,5
+R-HSA-1839117,Signaling by cytosolic FGFR1 fusion mutants,5
+R-HSA-1839120,Signaling by FGFR1 amplification mutants,5
+R-HSA-1839122,Signaling by activated point mutants of FGFR1,5
+R-HSA-1839130,Signaling by activated point mutants of FGFR3,5
+R-HSA-187024,NGF-independant TRKA activation,5
+R-HSA-187042,TRKA activation by NGF,5
+R-HSA-187706,Signalling to p38 via RIT and RIN,5
+R-HSA-190370,FGFR1b ligand binding and activation,5
+R-HSA-190371,FGFR3b ligand binding and activation,5
+R-HSA-190372,FGFR3c ligand binding and activation,5
+R-HSA-190373,FGFR1c ligand binding and activation,5
+R-HSA-190374,FGFR1c and Klotho ligand binding and activation,5
+R-HSA-190375,FGFR2c ligand binding and activation,5
+R-HSA-190377,FGFR2b ligand binding and activation,5
+R-HSA-190704,Oligomerization of connexins into connexons,5
+R-HSA-190827,Transport of connexins along the secretory pathway,5
+R-HSA-190872,Transport of connexons to the plasma membrane,5
+R-HSA-192814,vRNA Synthesis,5
+R-HSA-192823,Viral mRNA Translation,5
+R-HSA-192869,cRNA Synthesis,5
+R-HSA-192905,vRNP Assembly,5
+R-HSA-193368,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,5
+R-HSA-193775,Synthesis of bile acids and bile salts via 24-hydroxycholesterol,5
+R-HSA-193807,Synthesis of bile acids and bile salts via 27-hydroxycholesterol,5
+R-HSA-196025,Formation of annular gap junctions,5
+R-HSA-198753,ERK/MAPK targets,5
+R-HSA-199920,CREB phosphorylation,5
+R-HSA-202040,G-protein activation,5
+R-HSA-2023837,Signaling by FGFR2 amplification mutants,5
+R-HSA-2033515,t(4;14) translocations of FGFR3,5
+R-HSA-2033519,Activated point mutants of FGFR2,5
+R-HSA-211957,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,5
+R-HSA-211994,Sterols are 12-hydroxylated by CYP8B1,5
+R-HSA-211999,CYP2E1 reactions,5
+R-HSA-2179392,EGFR Transactivation by Gastrin,5
+R-HSA-2467813,Separation of Sister Chromatids,5
+R-HSA-2980767,"Activation of NIMA Kinases NEK9, NEK6, NEK7",5
+R-HSA-2995410,Nuclear Envelope (NE) Reassembly,5
+R-HSA-3301854,Nuclear Pore Complex (NPC) Disassembly,5
+R-HSA-380095,Tachykinin receptors bind tachykinins,5
+R-HSA-380108,Chemokine receptors bind chemokines,5
+R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes,5
+R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome,5
+R-HSA-388479,Vasopressin-like receptors,5
+R-HSA-389397,Orexin and neuropeptides FF and QRFP bind to their respective receptors,5
+R-HSA-390648,Muscarinic acetylcholine receptors,5
+R-HSA-390650,Histamine receptors,5
+R-HSA-390651,Dopamine receptors,5
+R-HSA-390666,Serotonin receptors,5
+R-HSA-390696,Adrenoceptors,5
+R-HSA-391906,Leukotriene receptors,5
+R-HSA-391908,Prostanoid ligand receptors,5
+R-HSA-4085001,Sialic acid metabolism,5
+R-HSA-416550,Sema4D mediated inhibition of cell attachment and migration,5
+R-HSA-416572,Sema4D induced cell migration and growth-cone collapse,5
+R-HSA-416993,Trafficking of GluR2-containing AMPA receptors,5
+R-HSA-417957,P2Y receptors,5
+R-HSA-417973,Adenosine P1 receptors,5
+R-HSA-435368,Zinc efflux and compartmentalization by the SLC30 family,5
+R-HSA-4419969,Depolymerization of the Nuclear Lamina,5
+R-HSA-442380,Zinc influx into cells by the SLC39 gene family,5
+R-HSA-442720,CREB1 phosphorylation through the activation of Adenylate Cyclase,5
+R-HSA-442729,CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde,5
+R-HSA-442742,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,5
+R-HSA-444473,Formyl peptide receptors bind formyl peptides and many other ligands,5
+R-HSA-444821,Relaxin receptors,5
+R-HSA-446199,Synthesis of Dolichyl-phosphate,5
+R-HSA-446205,Synthesis of GDP-mannose,5
+R-HSA-446210,Synthesis of UDP-N-acetyl-glucosamine,5
+R-HSA-450282,MAPK targets/ Nuclear events mediated by MAP kinases,5
+R-HSA-450302,activated TAK1 mediates p38 MAPK activation,5
+R-HSA-450321,JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1,5
+R-HSA-451307,Activation of Na-permeable kainate receptors,5
+R-HSA-451308,Activation of Ca-permeable Kainate Receptor,5
+R-HSA-480985,Synthesis of dolichyl-phosphate-glucose,5
+R-HSA-5250955,Toxicity of botulinum toxin type D (botD),5
+R-HSA-5250958,Toxicity of botulinum toxin type B (botB),5
+R-HSA-5250968,Toxicity of botulinum toxin type A (botA),5
+R-HSA-5250971,Toxicity of botulinum toxin type C (botC),5
+R-HSA-5250981,Toxicity of botulinum toxin type F (botF),5
+R-HSA-5250982,Toxicity of tetanus toxin (tetX),5
+R-HSA-5250989,Toxicity of botulinum toxin type G (botG),5
+R-HSA-5250992,Toxicity of botulinum toxin type E (botE),5
+R-HSA-5625886,Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,5
+R-HSA-5654219,Phospholipase C-mediated cascade: FGFR1,5
+R-HSA-5654221,Phospholipase C-mediated cascade; FGFR2,5
+R-HSA-5654227,Phospholipase C-mediated cascade; FGFR3,5
+R-HSA-5654228,Phospholipase C-mediated cascade; FGFR4,5
+R-HSA-5654688,SHC-mediated cascade:FGFR1,5
+R-HSA-5654689,PI-3K cascade:FGFR1,5
+R-HSA-5654693,FRS-mediated FGFR1 signaling,5
+R-HSA-5654695,PI-3K cascade:FGFR2,5
+R-HSA-5654699,SHC-mediated cascade:FGFR2,5
+R-HSA-5654700,FRS-mediated FGFR2 signaling,5
+R-HSA-5654704,SHC-mediated cascade:FGFR3,5
+R-HSA-5654706,FRS-mediated FGFR3 signaling,5
+R-HSA-5654710,PI-3K cascade:FGFR3,5
+R-HSA-5654712,FRS-mediated FGFR4 signaling,5
+R-HSA-5654719,SHC-mediated cascade:FGFR4,5
+R-HSA-5654720,PI-3K cascade:FGFR4,5
+R-HSA-5674499,Negative feedback regulation of MAPK pathway,5
+R-HSA-5684264,MAP3K8 (TPL2)-dependent MAPK1/3 activation,5
+R-HSA-5693537,Resolution of D-Loop Structures,5
+R-HSA-5693579,Homologous DNA Pairing and Strand Exchange,5
+R-HSA-629587,Highly sodium permeable postsynaptic acetylcholine nicotinic receptors,5
+R-HSA-629594,Highly calcium permeable postsynaptic nicotinic acetylcholine receptors,5
+R-HSA-629597,Highly calcium permeable nicotinic acetylcholine receptors,5
+R-HSA-6787639,GDP-fucose biosynthesis,5
+R-HSA-6803204,TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,5
+R-HSA-6803205,TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,5
+R-HSA-6803207,TP53 Regulates Transcription of Caspase Activators and Caspases,5
+R-HSA-6803211,TP53 Regulates Transcription of Death Receptors and Ligands,5
+R-HSA-6804114,TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest,5
+R-HSA-6804115,TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain,5
+R-HSA-6804116,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,5
+R-HSA-6804756,Regulation of TP53 Activity through Phosphorylation,5
+R-HSA-6804758,Regulation of TP53 Activity through Acetylation,5
+R-HSA-6804759,Regulation of TP53 Activity through Association with Co-factors,5
+R-HSA-6804760,Regulation of TP53 Activity through Methylation,5
+R-HSA-6806003,Regulation of TP53 Expression and Degradation,5
+R-HSA-69166,Removal of the Flap Intermediate,5
+R-HSA-69200,Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes,5
+R-HSA-69541,Stabilization of p53,5
+R-HSA-69560,Transcriptional activation of p53 responsive genes  ,5
+R-HSA-69601,Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,5
+R-HSA-72649,Translation initiation complex formation,5
+R-HSA-77285,Beta oxidation of myristoyl-CoA to lauroyl-CoA,5
+R-HSA-77305,Beta oxidation of palmitoyl-CoA to myristoyl-CoA,5
+R-HSA-77310,Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA,5
+R-HSA-77346,Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA,5
+R-HSA-77348,Beta oxidation of octanoyl-CoA to hexanoyl-CoA,5
+R-HSA-77350,Beta oxidation of hexanoyl-CoA to butanoyl-CoA,5
+R-HSA-77352,Beta oxidation of butanoyl-CoA to acetyl-CoA,5
+R-HSA-8851708,Signaling by FGFR2 IIIa TM,5
+R-HSA-8853333,Signaling by FGFR2 fusions,5
+R-HSA-8853334,Signaling by FGFR3 fusions in cancer,5
+R-HSA-8853336,Signaling by plasma membrane FGFR1 fusions,5
+R-HSA-8940973,RUNX2 regulates osteoblast differentiation,5
+R-HSA-8941284,RUNX2 regulates chondrocyte maturation,5
+R-HSA-8948700,Competing endogenous RNAs (ceRNAs) regulate PTEN translation,5
+R-HSA-8950505,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,5
+R-HSA-901032,ER Quality Control Compartment (ERQC),5
+R-HSA-9013418,RHOBTB2 GTPase cycle,5
+R-HSA-9013422,RHOBTB1 GTPase cycle,5
+R-HSA-9022534,Loss of MECP2 binding ability to 5hmC-DNA,5
+R-HSA-9022535,Loss of phosphorylation of MECP2 at T308,5
+R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex,5
+R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA,5
+R-HSA-9026286,Biosynthesis of DPAn-3-derived protectins and resolvins,5
+R-HSA-9026290,Biosynthesis of DPAn-3-derived maresins,5
+R-HSA-9026403,Biosynthesis of DPAn-3-derived 13-series resolvins,5
+R-HSA-9026762,Biosynthesis of maresin conjugates in tissue regeneration (MCTR),5
+R-HSA-9026766,Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR),5
+R-HSA-9027307,Biosynthesis of maresin-like SPMs,5
+R-HSA-9031628,NGF-stimulated transcription,5
+R-HSA-9032759,NTRK2 activates RAC1,5
+R-HSA-937039,IRAK1 recruits IKK complex,5
+R-HSA-937042,IRAK2 mediated activation of TAK1 complex,5
+R-HSA-937061,TRIF(TICAM1)-mediated TLR4 signaling ,5
+R-HSA-9619229,Activation of RAC1 downstream of NMDARs,5
+R-HSA-9619483,Activation of AMPK downstream of NMDARs,5
+R-HSA-9620244,Long-term potentiation,5
+R-HSA-9635465,Suppression of apoptosis,5
+R-HSA-9635644,Inhibition of membrane repair,5
+R-HSA-9636569,Suppression of autophagy,5
+R-HSA-9636667,Manipulation of host energy metabolism,5
+R-HSA-9637687,Suppression of phagosomal maturation,5
+R-HSA-9637698,Phagocyte cell death caused by cytosolic Mtb,5
+R-HSA-964827,"Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2",5
+R-HSA-9660826,Purinergic signaling in leishmaniasis infection,5
+R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,5
+R-HSA-9664417,Leishmania phagocytosis,5
+R-HSA-9670613,Defective Inhibition of DNA Recombination at Telomere Due to DAXX Mutations,5
+R-HSA-9670615,Defective Inhibition of DNA Recombination at Telomere Due to ATRX Mutations,5
+R-HSA-9673324,WNT5:FZD7-mediated leishmania damping,5
+R-HSA-9678110,Attachment and Entry,5
+R-HSA-9679504,Translation of Replicase and Assembly of the Replication Transcription Complex,5
+R-HSA-9679509,Virion Assembly and Release,5
+R-HSA-9679514,SARS-CoV-1 Genome Replication and Transcription,5
+R-HSA-9683701,Translation of Structural Proteins,5
+R-HSA-9692914,SARS-CoV-1-host interactions,5
+R-HSA-9705683,SARS-CoV-2-host interactions,5
+R-HSA-975110,TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling,5
+R-HSA-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,5
+R-HSA-9753510,Signaling by RAS GAP mutants,5
+R-HSA-9753512,Signaling by RAS GTPase mutants,5
+R-HSA-9754119,Drug-mediated inhibition of CDK4/CDK6 activity,5
+R-HSA-975574,Reactions specific to the hybrid N-glycan synthesis pathway,5
+R-HSA-975577,N-Glycan antennae elongation,5
+R-HSA-975578,Reactions specific to the complex N-glycan synthesis pathway,5
+R-HSA-9758274,Regulation of NF-kappa B signaling,5
+R-HSA-9762114,GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,5
+R-HSA-9764260,Regulation of Expression and Function of Type II Classical Cadherins,5
+R-HSA-9768777,Regulation of NPAS4 gene transcription,5
+R-HSA-9768778,Regulation of NPAS4 mRNA translation,5
+R-HSA-9772572,Early SARS-CoV-2 Infection Events,5
+R-HSA-9772573,Late SARS-CoV-2 Infection Events,5
+R-HSA-9818025,NFE2L2 regulating TCA cycle genes,5
+R-HSA-9818026,NFE2L2 regulating inflammation associated genes,5
+R-HSA-9818027,NFE2L2 regulating anti-oxidant/detoxification enzymes,5
+R-HSA-9818028,NFE2L2 regulates pentose phosphate pathway genes,5
+R-HSA-9818030,NFE2L2 regulating tumorigenic genes,5
+R-HSA-9818032,NFE2L2 regulating MDR associated enzymes,5
+R-HSA-9818035,NFE2L2 regulating ER-stress associated genes,5
+R-HSA-9818749,Regulation of NFE2L2 gene expression,5
+R-HSA-991365,Activation of GABAB receptors,5

@@ -1,0 +1,37 @@
+﻿PathwayID,PathwayName,Layer
+R-HSA-111996,Ca-dependent events,7
+R-HSA-164516,Minus-strand DNA synthesis,7
+R-HSA-164525,Plus-strand DNA synthesis,7
+R-HSA-164843,2-LTR circle formation,7
+R-HSA-164939,Nef mediated downregulation of CD28 cell surface expression,7
+R-HSA-164940,Nef mediated downregulation of MHC class I complex cell surface expression,7
+R-HSA-165160,PDE3B signalling,7
+R-HSA-167152,Formation of HIV elongation complex in the absence of HIV Tat,7
+R-HSA-167160,RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,7
+R-HSA-167161,HIV Transcription Initiation,7
+R-HSA-167162,RNA Polymerase II HIV Promoter Escape,7
+R-HSA-167169,HIV Transcription Elongation,7
+R-HSA-167238,Pausing and recovery of Tat-mediated HIV elongation,7
+R-HSA-167243,Tat-mediated HIV elongation arrest and recovery,7
+R-HSA-167287,HIV elongation arrest and recovery,7
+R-HSA-167290,Pausing and recovery of HIV elongation,7
+R-HSA-167590,Nef Mediated CD4 Down-regulation,7
+R-HSA-171286,Synthesis and processing of ENV and VPU,7
+R-HSA-174184,Cdc20:Phospho-APC/C mediated degradation of Cyclin A,7
+R-HSA-174495,"Synthesis And Processing Of GAG, GAGPOL Polyproteins",7
+R-HSA-175567,Integration of viral DNA into host genomic DNA,7
+R-HSA-177539,Autointegration results in viral DNA circles,7
+R-HSA-179409,APC-Cdc20 mediated degradation of Nek2A,7
+R-HSA-182218,Nef Mediated CD8 Down-regulation,7
+R-HSA-9694271,Assembly of the SARS-CoV-2 Replication-Transcription Complex (RTC),7
+R-HSA-9694301,Maturation of replicase proteins,7
+R-HSA-9694493,Maturation of protein E,7
+R-HSA-9694548,Maturation of spike protein,7
+R-HSA-9694594,Maturation of protein M,7
+R-HSA-9694631,Maturation of nucleoprotein,7
+R-HSA-9694686,Replication of the SARS-CoV-2 genome,7
+R-HSA-9694719,Maturation of protein 3a,7
+R-HSA-9694786,Transcription of SARS-CoV-2 sgRNAs,7
+R-HSA-9759811,Regulation of CDH11 mRNA translation by microRNAs,7
+R-HSA-9762292,Regulation of CDH11 function,7
+R-HSA-9762293,Regulation of CDH11 gene transcription,7
