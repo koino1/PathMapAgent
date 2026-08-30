@@ -2,6 +2,8 @@
 
 PathMap Agent generates drug-associated Reactome pathways and gene sets from a drug name or SMILES string.
 
+[![PathMap Agent framework](assets/framework.png)](framework.pdf)
+
 ## Run PathMap
 
 Run the following commands from the repository root.
